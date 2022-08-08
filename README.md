@@ -1,4 +1,5 @@
 # IPL Data
+Data Science Techniques Performed
 Data-Preprocessing
 EDA
 
