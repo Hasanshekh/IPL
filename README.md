@@ -1,5 +1,6 @@
 # IPL Data
-Data Science Techniques Performed
+Data Science Techniques Performed are:
+
 Data-Preprocessing
 EDA
 
